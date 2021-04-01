@@ -35,7 +35,7 @@ em estudar programação e suas variáveis. Desde então, ter entrado neste meio
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=torr7s" alt="Minhas Estatísticas">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=torr7s&theme=dark&show_icons=true" alt="Minhas Estatísticas">
 </p>  
 
 <div align="center">
