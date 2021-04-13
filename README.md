@@ -29,6 +29,7 @@ em estudar programação e suas variáveis. Desde então, ter entrado neste meio
 - **Angular**
 - **Vue**
 - **Bootstrap**
+- **C Sharp**
 <br/>
   <br/>
 
