@@ -25,11 +25,7 @@ em estudar programação e suas variáveis. Desde então, ter entrado neste meio
 <br/><br/>
 
 ## 🌱 Atualmente estou aprendendo ...
-- **Banco de Dados**
-- **Angular**
-- **Vue**
-- **Bootstrap**
-- **C Sharp**
+- **Banco de Dados** - **Angular** - **Vue** - **Bootstrap** - **C Sharp**
 <br/>
   <br/>
 
