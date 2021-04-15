@@ -15,15 +15,6 @@ em estudar programação e suas variáveis. Desde então, ter entrado neste meio
   - Express
   - NodeJS :white_check_mark:
 
-- **Visual Studio Code**, **Sublime Text**
-
-
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-<code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
-<br/><br/>
-
 ## 🌱 Atualmente estou aprendendo ...
 - **Banco de Dados** - **Angular** - **Vue** - **Bootstrap** - **C Sharp**
 <br/>
