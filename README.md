@@ -12,7 +12,7 @@
   	- Node JS :white_check_mark:
 	- HTML, CSS e Javascript :white_check_mark:
 
-## 🌱 Atualmente estou aprendendo ...
+## 🌱 Atualmente estou aprendendo...
 - **MySQL** - **React** - **Angular** - **Vue** - **Bootstrap** - **C Sharp** - **Python**
 <br/>
   <br/>
