@@ -5,17 +5,17 @@
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 - **Desenvolvimento Web**
-	- HTML, CSS e Javascript :white_check_mark:
+	- NoSQL :white_check_mark:
 	- MongoDB :white_check_mark:
-    - QuickDB :white_check_mark:
-  - Express :white_check_mark:
-  - NodeJS :white_check_mark:
+    	- QuickDB :white_check_mark:
+  	- Express :white_check_mark:
+  	- Node JS :white_check_mark:
+	- HTML, CSS e Javascript :white_check_mark:
 
 ## 🌱 Atualmente estou aprendendo ...
-- **Banco de Dados** - **React** - **Angular** - **Vue** - **Bootstrap** - **C Sharp**
+- **MySQL** - **React** - **Angular** - **Vue** - **Bootstrap** - **C Sharp** - **Python**
 <br/>
   <br/>
-
 
 
 <p align="center">
