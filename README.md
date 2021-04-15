@@ -7,7 +7,7 @@
 - **Desenvolvimento Web**
 	- NoSQL :white_check_mark:
 	- MongoDB :white_check_mark:
-    	- QuickDB :white_check_mark:
+    - QuickDB :white_check_mark:
   	- Express :white_check_mark:
   	- Node JS :white_check_mark:
 	- HTML, CSS e Javascript :white_check_mark:
