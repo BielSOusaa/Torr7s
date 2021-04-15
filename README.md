@@ -8,15 +8,13 @@ em estudar programação e suas variáveis. Desde então, ter entrado neste meio
 
 - **Desenvolvimento Web**
 	- HTML, CSS e Javascript :white_check_mark:
-	- Angular
-	- React :electron:
 	- MongoDB :white_check_mark:
     - QuickDB :white_check_mark:
-  - Express
+  - Express :white_check_mark:
   - NodeJS :white_check_mark:
 
 ## 🌱 Atualmente estou aprendendo ...
-- **Banco de Dados** - **Angular** - **Vue** - **Bootstrap** - **C Sharp**
+- **Banco de Dados** - **React** - **Angular** - **Vue** - **Bootstrap** - **C Sharp**
 <br/>
   <br/>
 
