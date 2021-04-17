@@ -21,9 +21,7 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=torr7s&theme=dark&show_icons=true" alt="Minhas Estatísticas">
 </p>  
-
 <div align="center">
-
   <br/>
   Obrigado por estar me visitando 😁<br/>
 </p>
