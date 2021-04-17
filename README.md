@@ -23,22 +23,7 @@
 </p>  
 
 <div align="center">
-  <h3 align="center">Conecte-se comigo<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
-</div>
-<p align="center">
- <a href="https://stackoverflow.com/users/15118203/torr7s" target="_blank">
-  <img align="center" alt="Perfil de Torr7s em Stack Overflow" width="30px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://discord.com/channels/@me/794930591258509382" target="_blank">
-  <img align="center" alt="Discord de Torr7s" width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://stackexchange.com/users/20595738/torr7s" target="_blank">
-  <img align="center" alt="Perfil de Torr7s em Stack Exchange" width="30px" src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://medium.com/@torr7s" target="_blank">
-  <img align="center" alt="Perfil de Torr7s em Medium" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
- </a> 
-  <br/>
+
   <br/>
   Obrigado por estar me visitando 😁<br/>
 </p>
